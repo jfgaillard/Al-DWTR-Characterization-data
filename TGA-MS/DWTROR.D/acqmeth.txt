@@ -1,0 +1,270 @@
+                                           INSTRUMENT CONTROL PARAMETERS:    TGA-GC-MS
+                                           -------------------------------------------
+
+   D:\IMSERC\METHODS-GCMS\DWTR-100MINS.M
+      Mon Sep 13 14:32:20 2021
+
+Control Information
+------- -----------
+
+Sample Inlet      :  GC
+Injection Source  :  External Device
+Mass Spectrometer :  Enabled
+
+
+ No Sample Prep method has been assigned to this method.
+
+Oven
+Equilibration Time                           3 min
+Max Temperature                              350 degrees C
+Slow Fan                                     Disabled
+Oven Program                                 On
+    200 °C for 125 min
+Run Time                                     125 min
+
+
+
+
+Sample Overlap
+Sample overlap is not enabled
+
+
+
+Front SS Inlet He
+Mode                                         Splitless
+Heater                                       On    250 °C
+Pressure                                     On    13.407 psi
+Total Flow                                   On    19 mL/min
+Septum Purge Flow                            On    3 mL/min
+Gas Saver                                    Off
+Purge Flow to Split Vent                     15 mL/min at 0 min
+
+
+Thermal Aux 1 (User Configurable)
+Heater                                       Off
+Temperature Program                          Off
+    250 °C for 0 min
+Run Time                                     125 min
+
+
+
+Thermal Aux 2 (MSD Transfer Line)
+Heater                                       On
+Temperature Program                          On
+    250 °C for 0 min
+Run Time                                     125 min
+
+
+
+Thermal Aux 3 (Unknown)
+Heater                                       On
+Temperature Program                          On
+    250 °C for 0 min
+Run Time                                     125 min
+
+
+Column #1
+
+350 °C: 25 m x 250 µm x 0.25 µm
+In: Front SS Inlet He
+Out: Vacuum
+
+(Initial)                                    200 °C
+Pressure                                     13.407 psi
+Flow                                         1 mL/min
+Average Velocity                             42.435 cm/sec
+Holdup Time                                  0.9819 min
+Flow Program                                 Off
+    1 mL/min for 0 min
+Run Time                                     125 min
+
+
+
+Valve 1
+Gas Sampling Valve                           Off
+GSV Loop Volume                              0.25 mL
+Load Time                                    0.2 min
+Inject Time                                  0.25 min
+
+Valve Box
+Heater                                       On    250 °C
+
+Signals
+Signal #1: Test Plot                         Save Off
+                                             50 Hz
+Signal #2: Test Plot                         Save Off
+                                             50 Hz
+Signal #3: Test Plot                         Save Off
+                                             50 Hz
+Signal #4: Test Plot                         Save Off
+                                             50 Hz
+
+Run Time Events
+  Time (min)    Event                          Position                       Setpoint
+        0.01    Valve                          Valve 1                        On
+           1    Valve                          Valve 1                        On
+           2    Valve                          Valve 1                        On
+           3    Valve                          Valve 1                        On
+           4    Valve                          Valve 1                        On
+           5    Valve                          Valve 1                        On
+           6    Valve                          Valve 1                        On
+           7    Valve                          Valve 1                        On
+           8    Valve                          Valve 1                        On
+           9    Valve                          Valve 1                        On
+          10    Valve                          Valve 1                        On
+          11    Valve                          Valve 1                        On
+          12    Valve                          Valve 1                        On
+          13    Valve                          Valve 1                        On
+          14    Valve                          Valve 1                        On
+          15    Valve                          Valve 1                        On
+          16    Valve                          Valve 1                        On
+          17    Valve                          Valve 1                        On
+          18    Valve                          Valve 1                        On
+          19    Valve                          Valve 1                        On
+          20    Valve                          Valve 1                        On
+          21    Valve                          Valve 1                        On
+          22    Valve                          Valve 1                        On
+          23    Valve                          Valve 1                        On
+          24    Valve                          Valve 1                        On
+          25    Valve                          Valve 1                        On
+          26    Valve                          Valve 1                        On
+          27    Valve                          Valve 1                        On
+          28    Valve                          Valve 1                        On
+          29    Valve                          Valve 1                        On
+          30    Valve                          Valve 1                        On
+          31    Valve                          Valve 1                        On
+          32    Valve                          Valve 1                        On
+          33    Valve                          Valve 1                        On
+          34    Valve                          Valve 1                        On
+          35    Valve                          Valve 1                        On
+          36    Valve                          Valve 1                        On
+          37    Valve                          Valve 1                        On
+          38    Valve                          Valve 1                        On
+          39    Valve                          Valve 1                        On
+          40    Valve                          Valve 1                        On
+          41    Valve                          Valve 1                        On
+          42    Valve                          Valve 1                        On
+          43    Valve                          Valve 1                        On
+          44    Valve                          Valve 1                        On
+          45    Valve                          Valve 1                        On
+          46    Valve                          Valve 1                        On
+          47    Valve                          Valve 1                        On
+          48    Valve                          Valve 1                        On
+          49    Valve                          Valve 1                        On
+          50    Valve                          Valve 1                        On
+          51    Valve                          Valve 1                        On
+          52    Valve                          Valve 1                        On
+          53    Valve                          Valve 1                        On
+          54    Valve                          Valve 1                        On
+          55    Valve                          Valve 1                        On
+          56    Valve                          Valve 1                        On
+          57    Valve                          Valve 1                        On
+          58    Valve                          Valve 1                        On
+          59    Valve                          Valve 1                        On
+          60    Valve                          Valve 1                        On
+          61    Valve                          Valve 1                        On
+          62    Valve                          Valve 1                        On
+          63    Valve                          Valve 1                        On
+          64    Valve                          Valve 1                        On
+          65    Valve                          Valve 1                        On
+          66    Valve                          Valve 1                        On
+          67    Valve                          Valve 1                        On
+          68    Valve                          Valve 1                        On
+          69    Valve                          Valve 1                        On
+          70    Valve                          Valve 1                        On
+          71    Valve                          Valve 1                        On
+          72    Valve                          Valve 1                        On
+          73    Valve                          Valve 1                        On
+          74    Valve                          Valve 1                        On
+          75    Valve                          Valve 1                        On
+          76    Valve                          Valve 1                        On
+          77    Valve                          Valve 1                        On
+          78    Valve                          Valve 1                        On
+          79    Valve                          Valve 1                        On
+          80    Valve                          Valve 1                        On
+          81    Valve                          Valve 1                        On
+          82    Valve                          Valve 1                        On
+          83    Valve                          Valve 1                        On
+          84    Valve                          Valve 1                        On
+          85    Valve                          Valve 1                        On
+          86    Valve                          Valve 1                        On
+          87    Valve                          Valve 1                        On
+          88    Valve                          Valve 1                        On
+          89    Valve                          Valve 1                        On
+          90    Valve                          Valve 1                        On
+          91    Valve                          Valve 1                        On
+          92    Valve                          Valve 1                        On
+          93    Valve                          Valve 1                        On
+          94    Valve                          Valve 1                        On
+          95    Valve                          Valve 1                        On
+          96    Valve                          Valve 1                        On
+          97    Valve                          Valve 1                        On
+          98    Valve                          Valve 1                        On
+          99    Valve                          Valve 1                        On
+         100    Valve                          Valve 1                        On
+
+                                MS ACQUISITION PARAMETERS
+
+
+General Information
+------- -----------
+
+Tune File                : stune.u
+Acquistion Mode          : Scan
+
+
+MS Information
+-- -----------
+
+Solvent Delay            : 0.00 min
+
+EMV Mode                 : Relative
+Relative Voltage         : 0
+Resulting EM Voltage     : 1282
+
+[Scan Parameters]
+
+Low Mass                 : 10.0
+High Mass                : 400.0
+Threshold                : 400
+Sample #                 : 3       A/D Samples    8
+Plot 2 low mass          : 10.0
+Plot 2 high mass         : 100.0
+
+[MSZones]
+
+MS Source                : 230 C   maximum 250 C
+MS Quad                  : 150 C   maximum 200 C
+
+
+                             END OF MS ACQUISITION PARAMETERS
+
+
+                              TUNE PARAMETERS for SN: US12111901
+                        -----------------------------
+
+ Trace Ion Detection is OFF.
+
+ EMISSION    :      34.610
+ ENERGY      :      69.922
+ REPELLER    :      19.904
+ IONFOCUS    :      69.278
+ ENTRANCE_LE :       0.000
+ EMVOLTS     :    1282.353
+                               Actual EMV  :    1282.35
+                               GAIN FACTOR :       0.66
+ AMUGAIN     :    1921.000
+ AMUOFFSET   :     124.250
+ FILAMENT    :       1.000
+ DCPOLARITY  :       0.000
+ ENTLENSOFFS :     12.549@  3    12.549@ 50    12.298@ 69    15.561@131    14.306@219    19.576@414    19.827@502    19.827@1049 
+ MASSGAIN    :    -656.000   
+ MASSOFFSET  :     -37.000   
+
+                           END OF TUNE PARAMETERS
+                      ------------------------------------
+
+
+
+                                               END OF INSTRUMENT CONTROL PARAMETERS
+                                               ------------------------------------

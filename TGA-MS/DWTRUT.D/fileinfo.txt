@@ -1,0 +1,23 @@
+
+           Data File Information
+
+     Data File     : C:\Users\Admin\OneDrive - Northwestern University\DWTR-SERDP PROJECT'S DOCUMENTS-selected\Data an
+...                  d Analysis\Raw Data\TGA-MS\2021\DWTRUT.D\data.ms
+     Operator:     :   
+     Acquired On   :   7 Sep 2021  12:58    
+     Instrument    :  TGA-GC-MS
+     Method File   :  DWTR-100MINS.M
+     Sample Name   :   
+     Misc Info     :   
+     Vial Number   :  1
+     Sample Mult.  :  1.00
+     Sample Amount :  0.00
+     Exp. Barcode  :   
+     Act.  Barcode :   
+
+
+
+     Files in Data Directory
+
+
+     * = File time stamp is before latest quant update

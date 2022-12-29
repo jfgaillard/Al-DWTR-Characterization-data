@@ -1,0 +1,10 @@
+C:\Users\Admin\OneDrive - Northwestern University\DWTR-SERDP PROJECT'S DOCUMENTS-selected\Data and Analysis\Raw Data\TGA-MS\2021\DWTRUT.D\Audit.txt 
+Created Mon Feb 21 15:31:42 2022
+
+
+ Modified : Mon Feb 21 15:31:42 2022
+ Event    : Quantitation 
+ Message  : Calculation using initial calibration
+ QuantFile: DEFAULT.RES
+ Severity : 0
+
