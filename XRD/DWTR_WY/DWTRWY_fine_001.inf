@@ -1,0 +1,84 @@
+Info file for file: DWTRWY_fine_001.dnd
+ 
+-- Description --
+program_name : powderscan
+SERVO_SetPoint : 2500.0
+--- User Comments --- 
+n
+
+
+columnplot: 5
+count_time: 2
+file_name: DWTRWY_fine
+lambda: 0.620845
+motor: twotheta
+rock: 0.0
+sampleNum: 1
+start: 7.5
+stepsize: 0.002
+stop: 41.5
+pscan twotheta 7.5 41.5 0.002 2 0.0 0.620845 DWTRWY_fine 5
+-----------------
+Current Position of SCIPE Beamline Actuators Before Scan
+_offset_antheta 0
+_offset_antwotheta 0
+_offset_mono 0
+_offset_table_1 0
+_offset_table_2 0
+_offset_table_3 0
+_offset_table_vert 0
+_offset_theta 0
+_offset_twotheta -0.4412994384765625
+_theta_speed 4294967.0
+antheta 10.749093191964286
+antwotheta 18.651192801339285
+mono_degrees 5.67155
+mono_ev 20005.7671
+mono_piezo 820
+mono_steps 113431
+table_1 -0.11130876900000002
+table_2 0.0
+table_3 0.0010184
+table_vert -0.052467129000000008
+theta 0.001800537109375
+twotheta 11.8179931640625
+wbslit_bottom -5.274
+wbslit_horgap 48.0215
+wbslit_horpos 4.15525
+wbslit_in 19.8555
+wbslit_out 28.166
+wbslit_top -2.5935
+wbslit_vergap -7.8675
+wbslit_verpos 1.34025
+-----------------
+Current Position of SCIPE Beamline Actuators After Scan
+_offset_antheta 0
+_offset_antwotheta 0
+_offset_mono 0
+_offset_table_1 0
+_offset_table_2 0
+_offset_table_3 0
+_offset_table_vert 0
+_offset_theta 0
+_offset_twotheta -0.4412994384765625
+_theta_speed 4294967.0
+antheta 10.749093191964286
+antwotheta 18.651192801339285
+mono_degrees 5.67155
+mono_ev 20005.7671
+mono_piezo 740
+mono_steps 113431
+table_1 -0.11130876900000002
+table_2 0.0
+table_3 0.0010184
+table_vert -0.052467129000000008
+theta 0.001800537109375
+twotheta 41.498001098632812
+wbslit_bottom -5.274
+wbslit_horgap 48.0215
+wbslit_horpos 4.15525
+wbslit_in 19.8555
+wbslit_out 28.166
+wbslit_top -2.5935
+wbslit_vergap -7.8675
+wbslit_verpos 1.34025

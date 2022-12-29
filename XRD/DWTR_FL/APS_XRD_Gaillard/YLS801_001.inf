@@ -1,0 +1,84 @@
+Info file for file: YLS801_001.dnd
+ 
+-- Description --
+program_name : powderscan
+SERVO_SetPoint : 2600.0
+--- User Comments --- 
+n
+
+
+columnplot: 5
+count_time: 2.0
+file_name: YLS801
+lambda: 
+motor: twotheta
+rock: 0.0
+sampleNum: 3
+start: 7.5
+stepsize: 0.001
+stop: 41.5
+pscan twotheta 7.5 41.5 0.001 2.0 0.0  YLS801 5
+-----------------
+Current Position of SCIPE Beamline Actuators Before Scan
+_offset_antheta -1.8791919084821416
+_offset_antwotheta -0.27139302455357139
+_offset_mono 0.005
+_offset_table_1 0
+_offset_table_2 0
+_offset_table_3 0
+_offset_table_vert 0
+_offset_theta 0
+_offset_twotheta -0.4911041259765625
+_theta_speed 4294967
+antheta 8.9143000000000008
+antwotheta 17.828600000000002
+mono_degrees 5.67405
+mono_ev 19996.9814
+mono_piezo -9150
+mono_steps 113381
+table_1 0.0
+table_2 0.0
+table_3 0.0
+table_vert 0.35010775800000005
+theta 0.0
+twotheta 41.5
+wbslit_bottom -5.274
+wbslit_horgap 48.022
+wbslit_horpos 4.15525
+wbslit_in 19.856
+wbslit_out 28.166
+wbslit_top -2.594
+wbslit_vergap -7.868
+wbslit_verpos 1.34
+-----------------
+Current Position of SCIPE Beamline Actuators After Scan
+_offset_antheta -1.8791919084821416
+_offset_antwotheta -0.27139302455357139
+_offset_mono 0.005
+_offset_table_1 0
+_offset_table_2 0
+_offset_table_3 0
+_offset_table_vert 0
+_offset_theta 0
+_offset_twotheta -0.4911041259765625
+_theta_speed 4294967
+antheta 8.9143000000000008
+antwotheta 17.828600000000002
+mono_degrees 5.67405
+mono_ev 19996.9814
+mono_piezo -9470
+mono_steps 113381
+table_1 0.0
+table_2 0.0
+table_3 0.0
+table_vert 0.35010775800000005
+theta 0.0
+twotheta 41.5
+wbslit_bottom -5.274
+wbslit_horgap 48.022
+wbslit_horpos 4.15525
+wbslit_in 19.856
+wbslit_out 28.166
+wbslit_top -2.594
+wbslit_vergap -7.868
+wbslit_verpos 1.34
