@@ -1,0 +1,3 @@
+Note: the DWTR-OR sample was originally misnamed within the BET data collection software (hence the difference between the filename and the sample name in the file).
+
+OR was collected September 14, 2021; WY was collected September 5, 2019.
