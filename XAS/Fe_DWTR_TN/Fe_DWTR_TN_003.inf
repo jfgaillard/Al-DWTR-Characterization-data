@@ -1,0 +1,84 @@
+Info file for file: Fe_DWTR_TN_003.dat
+-- Description --
+program_name : protoscan
+SetPoint : 2397.044
+title : EXAFS run
+-- User Comments --
+
+
+ -- exafs_scan parameters -- 
+Edge Energy : 7112 
+Background Start Energy: -150 eV
+Preedge Start Energy : -20 eV 
+Starting K : 3 Inverse Angstroms
+Ending K : 14 Inverse Angstroms
+Background Scan Energy Increment : 10 eV 
+Preedge Scan Energy Increment : 0.5 eV 
+EXAFS scan K Increment : 0.05 Inverse Angstroms
+Base Count Time : 1 secs 
+Final K Count Time : 18 secs 
+K Weight for time base : 1.5 
+Background Count Time : 5 secs 
+Mono Settling Time : 500
+ 
+The piezo position: 40123
+Mono Gap = 7.1499322 mm, Mono Trans = 55.0 mm at 7112 eV
+Vertical Slit Position = -0.026999909 mm,Horizontal Slit Size = 11.99999 mm
+ -- MCA settings and Detector infos -- 
+Number of Detectors = 8
+ROI = 608 - 650; Peaking Time = 1; MCA Gain = 20
+ME4 Detector Position = 0.99504625, 69.988143
+ 
+--- Settings for SRS570 Preamplifiers ---
+Chamber 1 Gain : 20 nA/V
+Chamber 1 Offset Current Range +/- : 2 nA
+Chamber 1 Offset Current (full range +/- 1000) : 42.0 / 0.084 nA
+--- Settings for SRS570 Preamplifiers ---
+Chamber 2 Gain : 1 nA/V
+Chamber 2 Offset Current Range +/- : 100 pA
+Chamber 2 Offset Current (full range +/- 1000) : 30.0 / 3.0 pA
+--- Settings for SRS570 Preamplifiers ---
+Chamber 3 Gain : 1 nA/V
+Chamber 3 Offset Current Range +/- : 100 pA
+Chamber 3 Offset Current (full range +/- 1000) : 19.0 / 1.9 pA
+--- Settings for SRS570 Preamplifiers ---
+Chamber 4 Gain : 2 nA/V
+Chamber 4 Offset Current Range +/- : 200 pA
+Chamber 4 Offset Current (full range +/- 1000) : 1.0 / 0.2 pA
+ 
+--- Columns in Fe_DWTR_TN_003.dat are --- 
+Energy eV
+Command Position for Monochromator (degree)
+Actual Position for Monochromator before counting (degree)
+Actual Position for Monochromator after counting (degree)
+Count Time (sec)
+0
+IO (raw)
+IT (raw)
+IT2 (raw)
+IF (sum)
+IF (sum_DT_corr)
+0
+IO background (scaled to count_time)
+IT background (scaled to count_time)
+IT2 background (scaled to count_time)
+IF background (scaled to count_time)
+IF/IO (corrected for deadtime)
+-log(IT/IO) (corrected for background)
+-log(IT2/IT) (corrected for background)
+Real Time (sec)
+Live Time (sec)
+8 Detectors: 3 x 8 columns follow
+ ... ... 
+Ring Current (mA)
+----------------------------------
+Below are the raw background counts taken in 5 seconds
+I0 Background:  1194 
+IT Background:  1131 
+IT2 Background:  627 
+IFL Background (sum) :  3560 
+Ctr 4 Background : 3560 
+Ctr 5 Background : 0 
+Ctr 6 Background : 0 
+Ctr 7 Background : 0 
+Date/Timestamp Thu Nov 8 CST 05:48:14
